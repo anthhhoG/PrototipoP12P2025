@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1744131097 source:c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\main.cpp
+	<iostream>
+	<iomanip>
+	"industria.h"
+	"utilidades.h"
+	<cstdlib>
+	<ctime>
+
+1744128428 source:c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\src\industrias.cpp
+	"industrias.h"
+
+1744128552 c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\include\industrias.h
+	<vector>
+	<string>
+
+1744129334 source:c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\src\utilidades.cpp
+	"utilidades.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1744130766 c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\include\utilidades.h
+	<string>
+
+1744129351 source:c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\src\idustria.cpp
+	"idustria.h"
+	"utilidades.h"
+
+1744129334 c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\include\idustria.h
+	<string>
+
+1744131163 source:c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\src\industria.cpp
+	"industria.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1744130940 c:\users\antho\onedrive\desktop\c++ ejemplos\ejercicios poo\prototipop12p2025\include\industria.h
+	<string>
+
